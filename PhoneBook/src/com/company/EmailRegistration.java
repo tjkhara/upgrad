@@ -19,7 +19,7 @@ public class EmailRegistration {
         if(emails.containsKey(NewEmail))
         {
             //Complete here
-            System.out.println(emails.get(NewEmail)); 
+            System.out.println(emails.get(NewEmail));
         }
         else System.out.println("False");
     }
