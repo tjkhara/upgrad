@@ -9,7 +9,7 @@ class Set<T> {
         int n = in.nextInt();
 
         // creating a HashSet named "hashSet"
-        Set<Integer> hashSet = new HashSet<Integer>();
+        Set<Integer> hashSet = new Set<Integer>();
 
         for (int i = 0; i < n; i++) {
             int a = in.nextInt();

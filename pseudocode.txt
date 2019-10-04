@@ -1,0 +1,27 @@
+HashSet<Integer> h = new HashSet<Integer>();
+
+// Store all the elements of the array into the hashset
+for(int i = 0; i < array.length; i++){
+    h.add(array[i]);
+}
+
+int count = 0;
+int currentElement = array[0];
+
+while(h.contains(currentElement)){
+    count++;
+    currentElement--;
+}
+
+int temp = array[0];
+
+currentElement = array[0] + 1;
+
+while(h.contains(currentElement)){
+    count++;
+    currentElement++;
+}
+
+if(count == h.size()){
+    System.out.println("true");
+}

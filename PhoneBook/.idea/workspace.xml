@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c39522ff-e28d-4980-9a49-e49fd86ebc56" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/FirstUniqueCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SymmetricPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/DistinctValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/LocksAndKeys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/PairWithAGivenSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Source2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Source3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Tickets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/EmailRegistration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/EmailRegistration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Set.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +36,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -47,9 +53,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FirstUniqueCharacter">
-    <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Anagram" />
+  <component name="RunManager" selected="Application.DistinctValues">
+    <configuration name="DistinctValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.DistinctValues" />
       <module name="PhoneBook" />
       <extension name="coverage">
         <pattern>
@@ -61,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BoardingPassProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.BoardingPassProblem" />
+    <configuration name="LocksAndKeys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.LocksAndKeys" />
       <module name="PhoneBook" />
       <extension name="coverage">
         <pattern>
@@ -74,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstUniqueCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.FirstUniqueCharacter" />
+    <configuration name="PairWithAGivenSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.PairWithAGivenSum" />
       <module name="PhoneBook" />
       <extension name="coverage">
         <pattern>
@@ -87,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashTableSimple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.HashTableSimple" />
+    <configuration name="Source2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Source2" />
       <module name="PhoneBook" />
       <extension name="coverage">
         <pattern>
@@ -100,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SymmetricPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.SymmetricPairs" />
+    <configuration name="Tickets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Tickets" />
       <module name="PhoneBook" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FirstUniqueCharacter" />
-        <item itemvalue="Application.SymmetricPairs" />
-        <item itemvalue="Application.Anagram" />
-        <item itemvalue="Application.BoardingPassProblem" />
-        <item itemvalue="Application.HashTableSimple" />
+        <item itemvalue="Application.DistinctValues" />
+        <item itemvalue="Application.LocksAndKeys" />
+        <item itemvalue="Application.Tickets" />
+        <item itemvalue="Application.PairWithAGivenSum" />
+        <item itemvalue="Application.Source2" />
       </list>
     </recent_temporary>
   </component>
@@ -137,6 +143,7 @@
       <workItem from="1569905065972" duration="6952000" />
       <workItem from="1569999139567" duration="2091000" />
       <workItem from="1570080793412" duration="3893000" />
+      <workItem from="1570169071373" duration="7208000" />
     </task>
     <servers />
   </component>
