@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c39522ff-e28d-4980-9a49-e49fd86ebc56" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/DistinctValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/LocksAndKeys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/PairWithAGivenSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Source2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Source3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Tickets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/ContiguousIntegers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Set.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +47,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DistinctValues">
+  <component name="RunManager" selected="Application.ContiguousIntegers">
+    <configuration name="ContiguousIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ContiguousIntegers" />
+      <module name="PhoneBook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DistinctValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.DistinctValues" />
       <module name="PhoneBook" />
@@ -93,19 +100,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Source2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Source2" />
-      <module name="PhoneBook" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Tickets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Tickets" />
       <module name="PhoneBook" />
@@ -121,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ContiguousIntegers" />
         <item itemvalue="Application.DistinctValues" />
         <item itemvalue="Application.LocksAndKeys" />
         <item itemvalue="Application.Tickets" />
         <item itemvalue="Application.PairWithAGivenSum" />
-        <item itemvalue="Application.Source2" />
       </list>
     </recent_temporary>
   </component>
@@ -144,6 +138,7 @@
       <workItem from="1569999139567" duration="2091000" />
       <workItem from="1570080793412" duration="3893000" />
       <workItem from="1570169071373" duration="7208000" />
+      <workItem from="1570343464220" duration="518000" />
     </task>
     <servers />
   </component>
